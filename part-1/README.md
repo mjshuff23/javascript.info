@@ -1,6 +1,8 @@
+## <- <a href="../../README.md" style="color: white">**Table of Contents**</a>
+
 # **Part 1 - The JavaScript Language**
 
-- ## **Chapter 1: An Introduction**
+- ## <a href="./chapter-1/README.md" style="color: white">**Chapter 1: An Introduction**</a>
   - <a href="./part-1/chapter-1/1.1-intro-to-javascript.md">**1.1 An Introduction To JavaScript**</a>
   - <a href="./part-1/chapter-1/1.2-manuals-and-specifications.md">**1.2 Manuals and Specifications**
   - <a href="./part-1/chapter-1/1.3-code-editors.md">**1.3 Code Editors**</a>
