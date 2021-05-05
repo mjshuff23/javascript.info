@@ -10,3 +10,5 @@
   - <a href="./part-1/chapter-1/1.2-manuals-and-specifications.md">_1.2 Manuals and Specifications_
   - <a href="./part-1/chapter-1/1.3-code-editors.md">_1.3 Code Editors_</a>
   - <a href="./part-1/chapter-1/1.4-developer-console.md">_1.4 Developer Console and Tools_</a>
+- ### <a href="./part-1/chapter-2/README.md" style="color: salmon">**Chapter 2: JavaScript Fundamentals**</a>
+  - <a href="./part-1/chapter-2/2.1-hello-world.md">_2.1 Hello, World!_</a>
