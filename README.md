@@ -1,4 +1,7 @@
-# **JavaScript Info**
+# **JavaScript Info Lessons**
+
+- This is a general overview of the website <a href="https://javascript.info/">https://javascript.info/</a>.
+- This repo is not meant to copy it in any way. It is meant to compact it into something more meaningful and practical for myself and anyone who wants to use it
 
 ## <a href="./part-1/README.md" style="color: white">**Part 1 - The JavaScript Language**</a>
 
