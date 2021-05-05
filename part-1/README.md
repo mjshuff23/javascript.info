@@ -1,4 +1,4 @@
-## <- <a href="../../README.md" style="color: white">**Table of Contents**</a>
+## <- <a href="../README.md" style="color: white">**Table of Contents**</a>
 
 # **Part 1 - The JavaScript Language**
 
