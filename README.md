@@ -12,3 +12,7 @@
   - <a href="./part-1/chapter-1/1.4-developer-console.md">_1.4 Developer Console and Tools_</a>
 - ### <a href="./part-1/chapter-2/README.md" style="color: salmon">**Chapter 2: JavaScript Fundamentals**</a>
   - <a href="./part-1/chapter-2/2.1-hello-world.md">_2.1 Hello, World!_</a>
+  - _[2.2 Code Structure](./part-1/chapter-2/2.2-code-structure.md)_
+  - _[2.3 Use Strict](./part-1/chapter-2/2.3-use-strict.md)_
+  - _[2.4 Variables](./part-1/chapter-2/2.4-variables.md)_
+  - _[2.5 Data Types](./part-1/chapter-2/2.5-data-types.md)_
